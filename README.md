@@ -9,11 +9,13 @@ This code is to interface ntpclient with OMAPL138 and tested this code with OMAP
 This whole work done by team not only me.
 
 During this work we publish one paper in this topic also.
-[1] V.P Ashokbhai, Suvendu Kumar Dash, R. Sanmugasundaram, D. Srinivasan "Interface Network Time
+
+V.P Ashokbhai, Suvendu Kumar Dash, R. Sanmugasundaram, D. Srinivasan "Interface Network Time
 Protocol as Clint in Embedded based Power Protection System" in Procd. of IEEE International Conference on
 Computation of Power, Energy, Information and Communication (ICCPEIC-2016), pp 67-70, April 2016, at
 Chennai, India.
 [DOI]:10.1109/ICCPEIC.2016.7557225
+http://ieeexplore.ieee.org/document/7557225/
 
 ntpclient is Copyright 1997, 1999, 2000, 2003, 2006, 2007 Larry Doolittle,
 and may be freely copied and modified according to the terms of the GNU
